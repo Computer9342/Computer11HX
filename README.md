@@ -1,12 +1,12 @@
-Hello! I'm Computer 11HX - Microsoft Windows Vista User!
+Hello! I'm Computer 11HX - The Storm Point here
 
 Command Prompt --------------------------------------------------------------------------------------------  X
 
 start dwm.exe
 
-print ""
+print "Wow, My PC is Still Working!!! Perfect!!!! Thanks Microsoft!!! - Computer 11HX | The Storm Point
 
-Wow, My PC is Still Working!!! Perfect!!!! Thanks Microsoft!!! - Computer 11HX | Microsoft Windows Vista User
+Wow, My PC is Still Working!!! Perfect!!!! Thanks Microsoft!!! - Computer 11HX | The Storm Point
 
 --------------------------------------------------------------------------------------------------------------
 
