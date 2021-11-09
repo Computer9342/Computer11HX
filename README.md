@@ -4,9 +4,9 @@ Command Prompt -----------------------------------------------------------------
 
 start dwm.exe
 
-print "Wow, My PC is Still Working!!! Perfect!!!! Thanks Microsoft!!! - Computer 11HX | The Storm Point
+print "Wow, My PC is Still Working!!! Perfect!!!! Thanks Microsoft!!! - Computer9342 | The Storm Point"
 
-Wow, My PC is Still Working!!! Perfect!!!! Thanks Microsoft!!! - Computer 11HX | The Storm Point
+Wow, My PC is Still Working!!! Perfect!!!! Thanks Microsoft!!! - Computer9342 | The Storm Point
 
 --------------------------------------------------------------------------------------------------------------
 
