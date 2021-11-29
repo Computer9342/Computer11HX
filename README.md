@@ -1,15 +1,15 @@
-Hello! I'm Computer9342 | The Storm Point here,
+Hello! I'm Firmware Processor here,
 
 Command Prompt --------------------------------------------------------------------------------------------  X
 
 start dwm.exe
 
-print "Wow, My PC is Still Working!!! Perfect!!!! Thanks Microsoft!!! - Computer9342 | The Storm Point"
+print "Wow, My PC is Still Working!!! Perfect!!!! Thanks Microsoft!!! - Firmware Processor"
 
-Wow, My PC is Still Working!!! Perfect!!!! Thanks Microsoft!!! - Computer9342 | The Storm Point
+Wow, My PC is Still Working!!! Perfect!!!! Thanks Microsoft!!! - Firmware Processor
 
 --------------------------------------------------------------------------------------------------------------
 
-I am Created First Program... Check out!
+I am Created First Software... Check This out!
 
 Computer and Technology, Science is Favorite!
