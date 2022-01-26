@@ -1,4 +1,5 @@
-Hello! I'm Firmware Processor here,
+Information: I'm Temporarily out of work.
+Hello! I'm Firmware Processor,
 
 Command Prompt --------------------------------------------------------------------------------------------  X
 
