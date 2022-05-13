@@ -5,9 +5,11 @@ Command Prompt -----------------------------------------------------------------
 
 start dwm.exe
 
-print "Wow, My PC is Still Working!! Perfect!! Thanks Microsoft!! - Firmware Processor"
+print "Wow, My PC is Still Working!! Perfect!! Thanks Microsoft!! Custom Firmwares"
 
-Wow, My PC is Still Working!! Perfect!! Thanks Microsoft!! - Firmware Processor
+Wow, My PC is Still Working!! Perfect!! Thanks Microsoft!!
+
+Custom Firmwares
 
 --------------------------------------------------------------------------------------------------------------
 
