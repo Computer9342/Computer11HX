@@ -1,4 +1,3 @@
-Information: I'm Temporarily out of work.
 Hello, I'm Custom Firmwares!
 
 Command Prompt --------------------------------------------------------------------------------------------  X
