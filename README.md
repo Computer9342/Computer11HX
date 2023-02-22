@@ -1,15 +1,15 @@
-Hello, I'm Custom Firmwares!
+Hello, I'm Computer9342.
 
 Command Prompt --------------------------------------------------------------------------------------------  X
 
 start dwm.exe
 
-print "Wow, My PC is Still Working!! Perfect!! Thanks Microsoft!! Custom Firmwares"
+print "Wow, My computer is still working, perfect. Thanks Microsoft. Computer9342"
 
-Wow, My PC is Still Working!! Perfect!! Thanks Microsoft!!
+Wow, My computer is still working, perfect. Thanks Microsoft. Computer9342
 
-Custom Firmwares
+Computer9342
 
 --------------------------------------------------------------------------------------------------------------
 
-Computer and Technology, Science is Favorite!
+Computer and technology, science is favorite!
