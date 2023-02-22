@@ -8,8 +8,6 @@ print "Wow, My computer is still working, perfect. Thanks Microsoft. Computer934
 
 Wow, My computer is still working, perfect. Thanks Microsoft. Computer9342
 
-Computer9342
-
 --------------------------------------------------------------------------------------------------------------
 
 Computer and technology, science is favorite!
